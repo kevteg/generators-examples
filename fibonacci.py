@@ -1,8 +1,8 @@
 import time
 
 
-def fib():
-    '''Old friend fibo <3'''
+def fibonacci():
+    '''Good old fibonacci'''
     a, b = 0, 1
     while True:
        yield b
